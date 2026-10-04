@@ -1,0 +1,6 @@
+{
+  "name": "A Date With You · Interactive Romantic Invitation",
+  "description": "An interactive romantic storytelling experience with an animated reveal sequence, playful choices, audio immersion, and custom keepsake boarding pass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
