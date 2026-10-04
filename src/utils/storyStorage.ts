@@ -8,7 +8,7 @@ export const DEFAULT_STORY_CONFIG: StoryConfig = {
   highTeaTiming: '3:00 PM - 5:00 PM (Afternoon Date)',
   openingLetterTitle: 'To my sweetest Cham, from Gee',
   openingLetterBody:
-    'You work so hard every day, and I love seeing your beautiful smile. I know you cannot go out at night time, so I planned a very special relaxing afternoon date just for you and me. Open this letter to see our little moments, and then I have an important question to ask you...',
+    'You work so hard every day, and I love seeing your beautiful smile. I wanted to put together a little surprise to brighten your afternoon and show you how much you mean to me. Open this letter to see some of our favorite little moments...',
   bigQuestionHeading: 'Will you go on a date with me?',
   bigQuestionSubtext:
     'A special relaxing afternoon date just for the two of us! (No night time, back before dark!)',
